@@ -1,6 +1,6 @@
-<h2 align="center"><u>CamHacker</u></h2>
+<h2 align="center"><u>canHACK</u></h2>
 
-![Hack anyone's camera and get images](https://github.com/KasRoudra/CamHacker/raw/main/files/banner.png)
+
 <h4 align="center"> Hack anyone's camera and get images!</h4>
 
 <p align="center">
@@ -26,15 +26,15 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 ### [+] Installation
 
- - `git clone https://github.com/KasRoudra/CamHacker`
- - `cd CamHacker`
+ - `git clone https://github.com/anonAELLY/CamHACK`
+ - `cd CamHACK`
 
 For termux, use additional command `termux-setup-storage`
  - `bash ch.sh`
 
 ##### Or Run Directly
 ```
-wget https://raw.githubusercontent.com/KasRoudra/CamHacker/main/ch.sh && bash ch.sh
+wget https://raw.githubusercontent.com/anonAELLY/CamHACK/main/ch.sh && bash ch.sh
 ```
 
 ### Docker
