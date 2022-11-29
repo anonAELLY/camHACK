@@ -62,10 +62,6 @@ Options:
  - Error Diagnoser
  - Argument support for templates, tunnelers and directory
 
-#### Relevant Tools by Me
- - [PyPhisher](https://github.com/KasRoudra/PyPhisher) for login phishing
- - [VidPhisher](https://github.com/KasRoudra/VidPhisher) for video phishing
-
  
 ### [+] Preview 
 ![Hack anyone's camera and get images](https://github.com/KasRoudra/CamHacker/raw/main/files/ch.gif)
